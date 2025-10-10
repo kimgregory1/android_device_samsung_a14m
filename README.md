@@ -20,4 +20,4 @@ Features to be added in future updates:
 #
 ```
 
-Any help from an experienced one is deeply appreciated, this is my first ever bringup, kindly create a pull request
+If anyone wants to contribute to this code, kindly create a pull request
