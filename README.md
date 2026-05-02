@@ -6,7 +6,7 @@ Work In Progress. Bugs:
 - Bluetooth
 - Offline charging
 - Selinux
-- Reboot (must be force shut down firsrt)
+- Reboot (must be force shut down first)
 
 Features to be added in future updates:
 - Beanpod
