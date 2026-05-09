@@ -5,7 +5,7 @@ Work In Progress. Bugs:
 - MTP
 - Bluetooth
 - Offline charging
-- SElinux
+- SELinux
 - Reboot (must be force shut down first)
 
 Features to be added in future updates:
