@@ -1,11 +1,11 @@
 # Android device tree for samsung SM-A145R (a14m)
 
 Work In Progress. Bugs:
-- Ota zip build fails
+- OTA .zip build fails
 - MTP
 - Bluetooth
 - Offline charging
-- Selinux
+- SElinux
 - Reboot (must be force shut down first)
 
 Features to be added in future updates:
